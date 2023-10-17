@@ -1,1 +1,1 @@
-console.log(`myb name is gN and this is fro test purpose`)
+console.log(`myb name is gN and this is fro test automation`)
